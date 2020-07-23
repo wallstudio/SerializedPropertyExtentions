@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3908701892948942130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2098002488225420261}
+  - component: {fileID: 9009785763933066548}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2098002488225420261
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3908701892948942130}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9009785763933066548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3908701892948942130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc03a1ea13591b240998d8821f15c9fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoge:
+    list1: e8030000a08601000a000000e803000010270000
+    list2: 0100000002000000030000000400000005000000
+    a: qwe
+    b: 
+    x:
+      byte: 1
+      short: 2
+      int: 3
+      long: 4
+      bool: 1
+      float: 1
+      double: 2
+      string: abc
+      color: {r: 0.9339623, g: 0.5594963, b: 0.5594963, a: 0}
+      color32:
+        serializedVersion: 2
+        rgba: 2680970847
+      object: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+      layerMask:
+        serializedVersion: 2
+        m_Bits: 18
+      enum: 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0.54
+        height: 1.32
+      list: 0d000000090000000c000000
+      chara: 119
+      animationCurve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 2
+          outSlope: 2
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 0.6540016
+          value: 0.121078625
+          inSlope: 1.741997
+          outSlope: 1.741997
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 1
+          value: 1
+          inSlope: 0
+          outSlope: 0
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      bounds:
+        m_Center: {x: 0.99, y: 0.48, z: 0}
+        m_Extent: {x: 0.33, y: 0.63, z: 0}
+      gradient:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 0.6778905, g: 0.9245283, b: 0.25729796, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 30840
+        ctime2: 65535
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 3
+        m_NumAlphaKeys: 2
+      quaternion: {x: 0, y: 0, z: 0, w: 0}
+      exposedReference:
+        exposedName: 
+        defaultValue: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+      vector2: {x: 0.99, y: 0.15}
+      vector3: {x: 0.81, y: -0.84, z: 0.06}
+      vector4: {x: 0, y: 0.24, z: 0.81, w: 0.69}
+      vector2Int: {x: 19, y: 0}
+      vector3Int: {x: 21, y: 0, z: -36}
+      rectInt:
+        x: 0
+        y: 1
+        width: 0
+        height: -16
+      boundsInt:
+        m_Position: {x: 17, y: 4, z: 0}
+        m_Size: {x: 0, y: -4, z: 0}
+      piyo1:
+        id: 0
+    y:
+      byte: 0
+      short: 0
+      int: 0
+      long: 0
+      bool: 0
+      float: 0
+      double: 0
+      string: 
+      color: {r: 0, g: 0, b: 0, a: 0}
+      color32:
+        serializedVersion: 2
+        rgba: 0
+      object: {fileID: 0}
+      layerMask:
+        serializedVersion: 2
+        m_Bits: 0
+      enum: 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      list: 
+      chara: 0
+      animationCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      bounds:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+      gradient:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 1, b: 1, a: 1}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      quaternion: {x: 0, y: 0, z: 0, w: 0}
+      exposedReference:
+        exposedName: 
+        defaultValue: {fileID: 0}
+      vector2: {x: 0, y: 0}
+      vector3: {x: 0, y: 0, z: 0}
+      vector4: {x: 0, y: 0, z: 0, w: 0}
+      vector2Int: {x: 0, y: 0}
+      vector3Int: {x: 0, y: 0, z: 0}
+      rectInt:
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      boundsInt:
+        m_Position: {x: 0, y: 0, z: 0}
+        m_Size: {x: 0, y: 0, z: 0}
+      piyo1:
+        id: 1
+  references:
+    version: 1
+    00000000:
+      type: {class: Piyo, ns: , asm: Assembly-CSharp}
+      data:
+        number: 72
+        text: xxxx
+    00000001:
+      type: {class: Piyo, ns: , asm: Assembly-CSharp}
+      data:
+        number: 0
+        text: 
